@@ -116,7 +116,7 @@ export const getStaticProps = async (ctx) => {
     },
   ];
 
-  const textAbout = `Hai! perkenalkan nama saya Banny Tri Pamungkas, kalian juga bisa memanggil saya Banny. Pertama kali saya mengenal bahasa pemrograman dimulai sekitar tahun 2014, saat itu saya hanya iseng mengerjakan soal-soal di internet, seiring berjalannya waktu saya mulai tertarik dengan pemrograman, bahasa pemrograman pertama saya adalah Pascal. Sedangkan minat saya terhadap pengembangan aplikasi sekitar tahun 2016, ketika saya mempelajari React.js, ketika saya mempelajari React.js saya mendapatkan banyak ilmu baru, dan saya membangun situs portfolio ini menggunakan teknologi Next.js`;
+  const textAbout = `Hai! perkenalkan nama saya Banny Tri Pamungkas, kalian juga bisa memanggil saya Banny. Pertama kali saya mengenal bahasa pemrograman dimulai sekitar tahun 2014, saat itu saya hanya iseng mengerjakan soal-soal di internet, seiring berjalannya waktu saya mulai tertarik dengan pemrograman, bahasa pemrograman pertama saya adalah Pascal. Sedangkan minat saya terhadap pengembangan aplikasi sekitar tahun 2016, ketika saya mempelajari React.js, ketika saya mempelajari React.js saya mendapatkan banyak ilmu baru, dan saya membangun situs portofolio ini menggunakan teknologi Next.js`;
 
   return {
     props: {
